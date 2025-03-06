@@ -33,7 +33,7 @@ ocaml binary_calculator.ml
 ```
 
 ## Testing
-All arithmetic and hex results were verified using:
+All processed values, as well as the arithmetic and hex results, were verified using:
 [Binary/Hex Converter Tool](https://www.binaryconvert.com/convert_signed_char.html)
 
 ## Screenshots (Outputs using both slide examples and assignment's operations)
