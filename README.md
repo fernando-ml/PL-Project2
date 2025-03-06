@@ -22,14 +22,14 @@ ocamlc -o BinaryLogicANDArithmeticOperator BinaryLogicANDArithmeticOperator.ml
 
 ### Execution
 ```bash
-./binary_calculator
+./BinaryLogicANDArithmeticOperator
 ```
 
 or 
 
 ### Execution
 ```bash
-ocaml binary_calculator.ml
+ocaml BinaryLogicANDArithmeticOperator.ml
 ```
 
 ## Testing
