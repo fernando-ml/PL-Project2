@@ -1,5 +1,8 @@
 # PL-Project2 (Binary Logic and Arithmetic Operator)
 
+**Name:** Fernando Martinez
+**Prog. Language:** OCaml
+
 ## Description
 - 8-bit signed arithmetic operations (-128 to 127)
 - 8-bit unsigned logical operations (0x00 to 0xFF)
@@ -37,7 +40,7 @@ All processed values, as well as the arithmetic and hex results, were verified u
 [Binary/Hex Converter Tool](https://www.binaryconvert.com/convert_signed_char.html)
 
 ## Screenshots (Outputs using both slide examples and assignment's operations)
-👷🏼🚧 In progress.
+Please check **results.pdf** and the **media** directory.
 
 
 ## Implementation Details
