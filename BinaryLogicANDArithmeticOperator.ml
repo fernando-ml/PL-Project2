@@ -174,7 +174,7 @@ let () =
           (* for output formatting *)
           if op = "SUB" then begin
             (* for subtraction, we take the two's complement of the second number and add *)
-            let neg_bin2 = binary_add (binary_not bin2) (decimal_to_binary 1) in (* perform addition following slides (after NOT, we add 1)*);
+            let neg_bin2 = binary_add (binary_not bin2) (decimal_to_binary 1) in
             Printf.printf "\n>>> %d - %d <<<\n" num1 num2; (* decoration for output using >>> op <<< *)
             Printf.printf " [%s] = %d\n" (binary_to_string bin1) num1; (* first number in binary *)
             Printf.printf "+[%s] = %d\n" (binary_to_string neg_bin2) (-num2); (* second number in binary *)
